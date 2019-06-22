@@ -26,6 +26,7 @@
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
+  --fibrec: #c3d6db;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -1916,7 +1917,7 @@ pre code {
   }
 }
 
-@media (max-width: 991.98px) {
+@media (max-width: 1024.98px) {
   .table-responsive-lg {
     display: block;
     width: 100%;
