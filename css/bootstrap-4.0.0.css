@@ -8742,7 +8742,8 @@ button.bg-dark:focus {
 }
 
 .text-center {
-  text-align: center !important;
+    text-align: center !important;
+    font-size: 25px;
 }
 
 @media (min-width: 576px) {
